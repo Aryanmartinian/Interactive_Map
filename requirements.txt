@@ -1,0 +1,6 @@
+geemap
+geopandas
+leafmap
+nbserverproxy
+owslib
+streamlit
